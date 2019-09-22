@@ -1,0 +1,15 @@
+Choice of auxiliary process: linearised_end
+Choice of endpoint: first
+
+Number of iterations: 1000
+Skip every 1 iterations, when saving to csv
+
+Starting point: [-0.5, -0.6]
+End time T: 12.0
+Endpoint v: -1
+Noise Sigma: [1.0e-10]
+L: [1.0 0.0]
+
+Mesh width: 0.0002
+rho (Crank-Nicholsen parameter: 0.0
+Average acceptance percentage: 45.0
